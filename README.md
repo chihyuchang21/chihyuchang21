@@ -2,12 +2,10 @@
 
 ### 📮 About Me
 - :school: Master of Information @ University of Wisconsin - Madison
-
-### :computer: Experiences:
+### :computer: Experiences
   - Completed a 6-month intensive coding bootcamp (AppWorks School) as a backend engineer
   - 3 years of work experience in the finance (CTBC Financial Holdings) and technology (Powertech Inc.) industries
-
-### Languages and Tools
+### :hammer: Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -38,4 +36,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chihyuchang21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
-###
+
