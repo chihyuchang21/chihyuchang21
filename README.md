@@ -5,7 +5,7 @@
 ### :computer: Experiences
   - Completed a 6-month intensive coding bootcamp (AppWorks School) as a backend engineer
   - 3 years of work experience in the finance (CTBC Financial Holdings) and technology (Powertech Inc.) industries
-### :hammer: Languages and Tools
+### :hammer: Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
