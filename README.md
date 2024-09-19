@@ -1,7 +1,7 @@
 ## Welcome to Chih-Yu's GitHub 🔥
 
 ### 📮 About Me
-- :school: Master of Information @ University of Wisconsin - Madison
+- :school: Master of Information Science @ University of Wisconsin - Madison
 ### :computer: Experiences
   - Completed a 6-month intensive coding bootcamp (AppWorks School) as a backend engineer
   - 3 years of work experience in the finance (CTBC Financial Holdings) and technology (Powertech Inc.) industries
