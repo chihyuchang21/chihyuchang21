@@ -3,6 +3,7 @@
 ### 📮 About Me
 - :school: Master of Information Science @ University of Wisconsin - Madison
 ### :computer: Experiences
+  - Software Engineer @ Inventec
   - Software Engineer Intern @ TSMC
   - Backend Engineer @ AppWorks School
 ### :hammer: Tech Stack
